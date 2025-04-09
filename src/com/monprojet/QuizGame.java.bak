@@ -1,0 +1,6 @@
+package com.monprojet;
+package com.monprojet;
+
+import javax.swing.*;
+import java.awt.*;
+// ... (collez ici tout le contenu de votre fichier QuizGame.java)
